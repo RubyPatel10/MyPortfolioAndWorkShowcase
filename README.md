@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **RFT project at Barclays**
 
-- 🌱 I’m currently learning **advanced techniques in software automation testing, including proficiency in test automation frameworks, scripting languages like Python, and utilizing tools such as Selenium WebDriver for robust test automation.**
+- 🌱 I’m currently learning **advanced techniques in software automation testing, including proficiency in test automation frameworks, scripting languages like Python, GCP and utilizing tools such as Selenium WebDriver for robust test automation.**
 
 - 👯 I’m looking to collaborate  **across diverse sectors, exploring opportunities that drive innovation and meaningful impact.**
 
 - 🤝 I’m looking for help with **enhancing my skills in software testing methodologies and tools.**
 
-- 💬 Ask me about **software quality assurance, test planning and execution, bug tracking and reporting, and strategies for effective test automation.**
+- 💬 Ask me about **software quality assurance, test planning and execution, bug tracking and reporting, and strategies for effective test automation, Agile mathodology.**
 
 - 📫 How to reach me **rubypatel.rp10@gmail.com**
 
