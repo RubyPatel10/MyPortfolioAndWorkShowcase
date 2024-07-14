@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advanced techniques in software automation testing, including proficiency in test automation frameworks, scripting languages like Python, and utilizing tools such as Selenium WebDriver for robust test automation.**
 
-- 👯 I’m looking to collaborate on **across diverse sectors, exploring opportunities that drive innovation and meaningful impact.**
+- 👯 I’m looking to collaborate  **across diverse sectors, exploring opportunities that drive innovation and meaningful impact.**
 
 - 🤝 I’m looking for help with **enhancing my skills in software testing methodologies and tools.**
 
