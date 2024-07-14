@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ruby Patel</h1>
-<h3 align="center">A passionate Quality Engineer from India</h3>
+<h3 align="center">A passionate Quality Assurance Engineer from India</h3>
 
-- 🔭 I’m currently working on **Barclay's OneRisk**
+- 🔭 I’m currently working on **RFT project at Barclays**
 
-- 🌱 I’m currently learning **Python, Automation framework, GCP**
+- 🌱 I’m currently learning **advanced techniques in software automation testing, including proficiency in test automation frameworks, scripting languages like Python, and utilizing tools such as Selenium WebDriver for robust test automation.**
+
+- 👯 I’m looking to collaborate on **across diverse sectors, exploring opportunities that drive innovation and meaningful impact.**
+
+- 🤝 I’m looking for help with **enhancing my skills in software testing methodologies and tools.**
+
+- 💬 Ask me about **software quality assurance, test planning and execution, bug tracking and reporting, and strategies for effective test automation.**
 
 - 📫 How to reach me **rubypatel.rp10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruby-patel-a1721b105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruby-patel-a1721b105/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
